@@ -1,4 +1,7 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afkdsghk211331&show_icons=true&theme=radical)
+
+
 
 <!--
 **afkdsghk211331/afkdsghk211331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
