@@ -1,7 +1,7 @@
 ## Hi there 👋
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/afkdsghk211331-g2-contributor.json)](https://github.com/antvis/g2)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afkdsghk211331&show_icons=true&theme=radical)
-
-
 
 <!--
 **afkdsghk211331/afkdsghk211331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
