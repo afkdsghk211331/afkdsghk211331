@@ -1,4 +1,9 @@
 # Hi there, I'm szxc! 👋
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=afkdsghk211331&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/afkdsghk211331?style=social)](https://github.com/shuzhuxvchuang)
+</div>
 
 <div align="center">
   
@@ -50,11 +55,6 @@ public:
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afkdsghk211331&show_icons=true&theme=ambient_gradient&count_private=true)
 
-
----
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=afkdsghk211331&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/afkdsghk211331?style=social)](https://github.com/shuzhuxvchuang)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
